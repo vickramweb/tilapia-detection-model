@@ -4,7 +4,10 @@ My final year project "Visual Speed Estimation of Tilapia Using Advanced AI Tech
 This project applies deep learning to estimate the visual speed of tilapia fish to support aquaculture research.
 
 ## 📽️ Demo Video
-[![Watch the Video](https://img.youtube.com/vi/TXUAqqHLRuM/0.jpg)] (https://youtu.be/TXUAqqHLRuM?si=b3M8uNcyn5y8gYk_)
+[![Watch the Video](https://img.youtube.com/vi/TXUAqqHLRuM/0.jpg) 
+
+
+(https://youtu.be/TXUAqqHLRuM?si=b3M8uNcyn5y8gYk_)
 
 ## 📄 Project Overview
 - Developed using **Python**, **TensorFlow**, and **OpenCV**.
